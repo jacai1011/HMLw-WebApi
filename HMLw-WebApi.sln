@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMLw-WebApi", "HMLw-WebApi.csproj", "{2DAA86DE-090A-4A2A-516B-49189B98341F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAA86DE-090A-4A2A-516B-49189B98341F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAA86DE-090A-4A2A-516B-49189B98341F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAA86DE-090A-4A2A-516B-49189B98341F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAA86DE-090A-4A2A-516B-49189B98341F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE118A0E-8178-4FB0-A3D2-29CCC2092482}
+	EndGlobalSection
+EndGlobal
