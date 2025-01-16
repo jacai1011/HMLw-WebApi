@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HMLw-WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f64056b05ef702fe16063223ce97fb294be668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec14d89efb81baacd1a647e7f588485d3fb0b4de")]
 [assembly: System.Reflection.AssemblyProductAttribute("HMLw-WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HMLw-WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

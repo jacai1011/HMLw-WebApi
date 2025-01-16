@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 
 namespace HMLw_WebApi.Models;
-public class ProjectDb : DbContext
+public class ProjectContext : DbContext
 {
-    public ProjectDb(DbContextOptions<ProjectDb> options) : base(options) { }
+    public ProjectContext(DbContextOptions<ProjectContext> options) : base(options) { }
     public required DbSet<Project> Projects { get; set; }
     public required DbSet<TaskList> TaskLists { get; set; }
     public required DbSet<Task> Tasks { get; set; }
